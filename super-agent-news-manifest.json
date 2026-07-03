@@ -1,0 +1,33 @@
+{
+  "citations": [
+    "[x.ai](https://x.ai/news/grok-build-cli)",
+    "[geotoolbox.ai](https://geotoolbox.ai/blog/grok-vs-claude)",
+    "[towardsai.net](https://towardsai.net/p/machine-learning/grok-build-the-fourth-contender-in-the-ai-coding-agent-race-grok-build-vs-codex-opencode-and-claude-code)",
+    "[pub.towardsai.net](https://pub.towardsai.net/grok-build-vs-claude-code-the-compatibility-bet-the-buzz-and-what-you-can-actually-bring-over-406447d668be)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[Memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[DigitalTrends.com](https://www.digitaltrends.com/computing/openai-wants-an-all-knowing-personal-ai-agent/)",
+    "[TechRadar.com](https://www.techradar.com/ai/which-ai-chatbot-is-right-for-you-quiz-chatgpt-claude-gemini-grok)",
+    "[SCMedia.com](https://www.scmagazine.com/)",
+    "[SecurityAffairs.com](https://securityaffairs.com/)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=1120px/2-3 lines; bento_density=grid-auto-flow:dense verified; label_sweep=competitors mentioned; button_contrast=ink/white ok",
+  "generated_at": "2026-07-03T02:16:00.138835+00:00",
+  "headline": "Super vs Grok \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair, current comparison of Super and Grok for people choosing a personal AI agent. Grok shines at real\u2011time data and developer workflows like Grok Build. Super is built for repeated computer\u2011use workflows, with agents that operate real computers and reuse a computer-use cache so work gets faster and cheaper over time."
+}
